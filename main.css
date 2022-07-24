@@ -1,0 +1,36 @@
+
+.intro-container,
+.projects-container,
+.about-container {
+    border: 1px solid green;
+    padding: 10rem;
+    margin-bottom: 5rem;
+}
+
+.avatar-image {
+    width: 18rem;
+}
+
+.left-container {
+    border: 1px solid red;
+}
+
+.right-container {
+    border: 1px solid blue;
+}
+
+.technologies-container {
+    border: 1px solid blueviolet;
+}
+
+.logo {
+    width: 5rem;
+}
+
+.individual-projects {
+    border: 1px solid orange;
+}
+
+.card-container {
+    background-color: plum;
+}
